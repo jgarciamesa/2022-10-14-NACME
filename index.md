@@ -379,6 +379,33 @@ The lesson taught in this workshop is being piloted and a precise schedule is ye
 
 
 {% comment %}
+STAY CONNECTED
+{% endcomment  %}
+
+<h2 id="connected">Stay Connected</h2>
+
+<p>
+  <strong>Please consider joining The Carpentries Equity Cohort mailing list</strong>
+</p>
+<p>
+  This workshop is part of The Carpentries' <a href="https://carpentries.org/blog/2021/06/carpentries-sloan-foundation-announcement/">effort to promote diversity</a>
+  amongst our instructors: <a href="https://carpentries.topicbox.com/groups/equity-cohort">sign up on Topicbox.</a>
+</p>
+<p>
+  We would love to hear your experience regarding this workshop.
+  Consider <a href="https://forms.gle/gXSzkjnPCdyZSicWA">joining a focus group</a>
+  to help us improve our programs as we strive to offer inclusive data science education to our learners.
+</p>
+<p>
+If you would like to become a Carpentries Instructor, consider applying for Instructor Training!
+To apply, please select “Profile Creation for Pre-Approved Trainees” in the
+<a href="https://amy.carpentries.org/forms/request_training/">Instructor Training application form</a>
+and enter the code <strong>SLOAN-IT</strong>.
+</p>
+
+<hr/>
+
+{% comment %}
 SETUP
 
 Delete irrelevant sections from the setup instructions.  Each
